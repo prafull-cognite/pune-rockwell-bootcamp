@@ -1,0 +1,2 @@
+externalId: wf_icapi_data_pipeline
+description: A workflow to orchestrate the ice cream API data pipeline, including asset hierarchy creation, time series contextualization, data extraction, and OEE calculation.
